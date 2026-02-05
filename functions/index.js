@@ -21,7 +21,7 @@ export async function onRequest(context) {
   // Türkiye'den gelenler
   if (country === 'TR') {
     console.log('Turkey visitor – redirecting to xx.com');
-    return Response.redirect('https://cratosroyabet883.com/', 302);
+    return Response.redirect('https://cratosroyabet884.com/', 302);
   }
 
   // Diğer ülkeler → index.html
